@@ -1,0 +1,62 @@
+.container1{   
+    background-color: #4ABDAC;
+    /* width: 100%; */
+    margin: 50px 50px;
+    padding: 50px 50px;
+    /* border-radius: 25px; */
+
+}
+
+.containerkontak{   
+    background-color: #676362;
+    /* width: 100%; */
+    margin: 50px 50px;
+    padding: 50px 50px;
+    /* border-radius: 25px; */
+
+}
+
+
+
+.container2{   
+    background-color: #FF805F;
+    margin: 50px 50px;
+    padding: 50px 50px;
+    /* border-radius: 25px; */
+
+}
+
+.container3{   
+    background-color: #DF9F45;
+    margin: 50px 50px;
+    padding: 50px 50px;
+    /* border-radius: 25px; */
+
+}
+.container4{   
+    background-color: #4D94AA;
+    margin: 50px 50px;
+    padding: 50px 50px;
+    /* border-radius: 25px; */
+
+}
+
+.container5{   
+    background-color: #77A65A;
+    margin: 50px 50px;
+    padding: 50px 50px;
+    /* border-radius: 25px; */
+
+}
+
+
+ 
+
+
+
+
+.safeworld_interior .banner_title1 h1 {
+    font-family: "Yeseva One", cursive;
+    font-weight: 500;
+    color: crimson;
+}
